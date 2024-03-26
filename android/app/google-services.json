@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "669721212063",
+    "firebase_url": "https://weather-wizard-80410-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "weather-wizard-80410",
+    "storage_bucket": "weather-wizard-80410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:669721212063:android:2ff153bf18542813f81eaa",
+        "android_client_info": {
+          "package_name": "com.aman.weatherwizard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "669721212063-92lf1q35s94338rcdtdqfpmu80kdagnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBapcNYi2yoxWrvVsFzK8JVXD-PQrDjFuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "669721212063-92lf1q35s94338rcdtdqfpmu80kdagnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
